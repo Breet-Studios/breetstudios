@@ -1,2 +1,2 @@
-# breetstudios
-A website for Gorilla Tag Experience
+# Breet Studios
+A open source website for Breet Studios.
